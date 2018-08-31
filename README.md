@@ -7,4 +7,4 @@ To anticipate customers' ever-changing needs for one of our clients, we have rec
 
 Having gone through such exercise, **I want to conduct a similar experiment with reddit's data to uncover common topics that Shopify merchants/users submit to reddit**.
 
-The analysis can be accessed by clicking [here](https://nbviewer.jupyter.org/github/ckenlam/Shopify-Subreddit-Topic-Model/blob/master/Topic%20Modeling%20-%20Shopify%20subreddit.ipynb).
+The analysis can be accessed by clicking [here](https://nbviewer.jupyter.org/github/ckenlam/Shopify-Subreddit-Topic-Model/blob/master/Topic%20Modeling%20-%20Shopify%20subreddit.ipynb). (best viewed with Google Chrome)
